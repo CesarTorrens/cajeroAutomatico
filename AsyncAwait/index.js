@@ -31,6 +31,7 @@ console.log("Before");
 anotherFunction();
 console.log("After");
 
+<<<<<<< HEAD
 
 //                  SOY LA RAMA CON NOMBRE RARO!!!.. q loco!!!              ////
 //                  SOY LA RAMA CON NOMBRE RARO!!!.. q loco!!!              ////
@@ -42,6 +43,8 @@ console.log("After");
 //                  SOY LA RAMA CON NOMBRE RARO!!!.. q loco!!!              ////
 //                  SOY LA RAMA CON NOMBRE RARO!!!.. q loco!!!              ////
 
+=======
+>>>>>>> new-branch-pruebas
 //                  SOY LA ramaLoca!!!!         //
 //                  SOY LA ramaLoca!!!!         //
 //                  SOY LA ramaLoca!!!!         //
@@ -60,4 +63,13 @@ console.log("After");
 //creacion de rama super loca xd
 //creacion de rama super loca xd
 //creacion de rama super loca xd
+<<<<<<< HEAD
 //creacion de rama super loca xd
+=======
+//creacion de rama super loca xd
+
+
+
+
+// no se que estoy haciendo!!.. no tengo idea!!!
+>>>>>>> new-branch-pruebas
