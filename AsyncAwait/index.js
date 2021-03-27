@@ -30,3 +30,6 @@ const anotherFunction =  async  () => {
 console.log("Before");
 anotherFunction();
 console.log("After");
+
+
+//probando checkout
