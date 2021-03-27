@@ -30,8 +30,6 @@ const anotherFunction =  async  () => {
 console.log("Before");
 anotherFunction();
 console.log("After");
-<<<<<<< HEAD
-=======
 
 
 //                  SOY LA RAMA CON NOMBRE RARO!!!.. q loco!!!              ////
@@ -72,4 +70,3 @@ console.log("After");
 
 
 //todo bien!!
->>>>>>> new-branch-pruebas
